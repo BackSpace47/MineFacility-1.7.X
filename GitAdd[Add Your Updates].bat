@@ -1,5 +1,5 @@
 @echo off
 color 12
 
-git add .
+git add -A
 pause
